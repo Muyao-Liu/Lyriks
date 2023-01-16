@@ -1,6 +1,6 @@
 # Project Introduction
 
-A Full-Stack Music Player Web App implemented with React.js and Redux.
+# A Full-Stack Music Player Web App implemented with React.js and Redux.
 
 Gathering music data from Shazam Core API to the well-organized web pages, which include:  
 
