@@ -1,13 +1,23 @@
-# Project Lyrics
+# Project Introduction
 
-Develop an elegant React.js Music Application. 
+A Full-Stack Music Player Web App implemented with React.js and Redux.
 
-Check out the complete project requirements [here](https://docs.google.com/document/d/13PeFwRlPEhMw_HPyrIrInvQuKaVWnpNmcv-y3NA208s/edit?usp=sharing)
+Gathering music data from Shazam Core API to the well-organized web pages, which include:  
 
-# Contributing
+1. Music Player - When users click on any song, a music player will appear. It include basic controls like the previous song, the next song, and pause/play buttons. Additional details like the song’s name, author, volume, repeat, and duration controls are also fetched from the Shazam Core API and displayed on the page.
 
-When contributing to this repository, please first discuss the change you wish to make via issue.
-Please note we have a [code of conduct](CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
+2. Homepage - Users can choose a genre and get the top songs for that genre from Shazam Core API.
+
+3. Song Details Page - Additional information about the song like the song’s music video and lyrics and a list of similar songs are shown on the pag.
+
+4. Artists Page - It shows a list of the most famous artists.
+
+5. Artist Details Page - Head to a page that shows the additional information about the artist and the artist's most popular songs.
+
+6. Explore - Users can select a country and get the top songs for that country from Shazam Core API.
+
+7. Music for Specific Country - Show the top songs from the user’s country.
+
 
 
 ## System Requirements
