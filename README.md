@@ -1,4 +1,3 @@
-# Project Introduction
 
 # A Full-Stack Music Player Web App implemented with React.js and Redux.
 
